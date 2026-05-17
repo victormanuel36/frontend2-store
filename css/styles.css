@@ -70,7 +70,7 @@ h3 {
 .header__logo {
     margin: 3rem 0;
 }
-/** Footer **/2
+/** Footer **/
 .footer {
     background-color: var(--primarioOscuro);
     padding: 1rem 0;
@@ -99,4 +99,19 @@ h3 {
 .navegacion__enlace:hover {
     color: var(--secundario)
 }
+/** Producto **/
+.producto {
 
+}
+.producto__imagen {
+
+}
+.producto__infomacion {
+
+}
+.producto__nombre {
+
+}
+.producto__precio {
+    
+}
